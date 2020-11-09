@@ -1,4 +1,7 @@
 export default [
+  // curl
+  'curl/[0-9.]+',
+
   // 네이버 - https://searchadvisor.naver.com/guide/seo-basic-firewall
   'Yeti/[0-9.]+',
 
